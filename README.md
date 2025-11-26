@@ -1,4 +1,4 @@
-# GLSL Voxel World Shader — Concise Technical README
+# GLSL Voxel World Shader — Concise Technical
 
 ## Summary
 
